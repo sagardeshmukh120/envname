@@ -1,1 +1,1 @@
-dates=,dev1,dev2,prod1,prod2
+dates=dev1,dev2,prod1,prod2

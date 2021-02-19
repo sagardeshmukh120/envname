@@ -2,3 +2,4 @@ web=192.168.2.135 azruvwdatgtf0,192.168.2.133 azruvwdatgtf1,192.168.2.135 azruvw
 app=192.168.2.134 azruvadatgtf0,192.168.2.132 azruvadatgtf1,192.168.2.134 azruvadatgtf0,192.168.2.132 azruvadatgtf1,
 name
 1.0.1
+1.0.2
